@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <! --
-**camilafernanda2/camilafernanda2** é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece em seu perfil GitHub.
+**haccosta/haccosta** é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece em seu perfil GitHub.
 
 Aqui estão algumas idéias para você começar:
 
